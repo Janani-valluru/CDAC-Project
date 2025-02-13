@@ -4,9 +4,13 @@ simultaneously while displaying active collaborators in real-time. The platform 
 secure authentication.
 Key Features:
 1.Real-time document collaboration with instant updates
+
 2.Live presence tracking of active users
+
 3.Secure authentication with email verification
+
 4.Intuitive WYSIWYG editor for seamless editing.Tech
+
 Stack: MERN, Socket.IO, Quill
 ![image](https://github.com/user-attachments/assets/ed21bf06-025b-4c8d-aba6-99b72cf56db7)
 
