@@ -2,7 +2,9 @@ CollabWrite is a real-time collaborative document editing web application built 
 Socket.IO for live communication and Quill for rich-text editing. It enables multiple users to edit documents
 simultaneously while displaying active collaborators in real-time. The platform includes email verification for
 secure authentication.
+
 Key Features:
+
 1.Real-time document collaboration with instant updates
 
 2.Live presence tracking of active users
